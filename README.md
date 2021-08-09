@@ -75,7 +75,7 @@ If you use the Reconstruction Technique Algorithm code in your work, please cite
   year={2021}
 }
 ```
-## Author
+## Authors
 SAITO Yuji, KAMPS Landon
 
 [Laboratory of Space Systems](https://mech-hm.eng.hokudai.ac.jp/~spacesystem/)
