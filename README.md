@@ -1,6 +1,8 @@
 # Reconstruction techniques for determining O/F in hybrid rockets
 This repository contains Matlab (R2020a) code for determining fuel mass flow rate in hybrid rocket based on overall fuel mass consumption, chamber pressure history, and oxidizer flow mass flow rate history.
 
+A .zip file has been added as "RT_20210716" for downloading convenience
+
 ## License
 [MIT-License](https://github.com/HokudaiLSS/RT_20210716/blob/add-license-1/LICENSE)
 
