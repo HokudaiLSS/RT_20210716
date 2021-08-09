@@ -4,7 +4,7 @@ This repository contains Matlab (R2020a) code for determining fuel mass flow rat
 A .zip file has been added as "RT_20210716" for downloading convenience
 
 ## License
-[MIT-License](https://github.com/HokudaiLSS/RT_20210716/blob/add-license-1/LICENSE)
+[MIT-License](https://github.com/HokudaiLSS/RT_20210716/blob/main/MIT%20License.txt)
 
 ## Code  
 ---
