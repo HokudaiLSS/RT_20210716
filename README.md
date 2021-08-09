@@ -8,11 +8,11 @@ A .zip file has been added as "RT_20210716" for downloading convenience
 
 ## Code  
 ---
+
 ### Main program  
 - P_main_RT.m  
 
-### Function  
-#### Calculation
+### Functions  
 - calculation_pressure_chamber_PRTM.m
 - calculation_thrust_TRTEM.m
 - equation_area_circle.m
